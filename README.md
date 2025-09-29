@@ -105,7 +105,7 @@ You'll notice that your repository already has two branches called `alice` and `
   - Read what either `git` or `IntelliJ` tells you in order to complete the merge process.
     - If you do the merge through the Terminal, you will need to edit `recipe.md` to remove all of the
     merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
-    `recipe.md` file and `git commit` to finish the merge.
+git ch    `recipe.md` file and `git commit` to finish the merge.
 
 - [ ] Once the merge is complete, delete the `bob` branch.
 
