@@ -44,7 +44,7 @@ If you miss the lab and work on this after, you can use this URL though.
 
 ---
 
-- [ ] Complete the TASK 1 TODO and commit your changes to this file (checking off the
+- [x] Complete the TASK 1 TODO and commit your changes to this file (checking off the
 completed items so far) and `DataTypes.java` (remove the word TODO and your bug fix).
   - talk to your team or your TA, then see the hints at the bottom of the readme if you get stuck.
 
